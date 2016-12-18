@@ -1,6 +1,6 @@
 FROM alpine:3.4
 
-MAINTAINER NGINX Docker Maintainers "docker-maint@nginx.com"
+MAINTAINER NGINX Docker Maintainers "jason.zr.zhang@icloud.com"
 
 ENV NGINX_VERSION 1.10.2
 
